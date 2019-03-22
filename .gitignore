@@ -1,1 +1,4 @@
 *.pyc
+pmtkTools/*
+pmtksupportCopy/*
+figures/*
